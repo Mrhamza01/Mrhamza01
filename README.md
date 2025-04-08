@@ -1,38 +1,53 @@
+
 <h1 align="center">Hi 👋, I'm Muhammad Hamza</h1>
-<h3 align="center">🚀 A results-driven Full Stack Developer & DevOps Enthusiast from Pakistan</h3>
+<h3 align="center">🚀 Full Stack Engineer | DevOps Enthusiast | CS Graduate | Freelancer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrhamza01&label=Profile%20views&color=0e75b6&style=flat" alt="mrhamza01" />
+  <img src="https://komarev.com/ghpvc/?username=mrhamza01&label=Profile%20views&color=lightgrey&style=flat" alt="mrhamza01" />
 </p>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=mrhamza01"><img src="https://github-profile-trophy.vercel.app/?username=mrhamza01&margin-w=15&theme=algolia" alt="GitHub Trophy" /></a>
+  <a href="https://github-profile-trophy.vercel.app/?username=mrhamza01">
+    <img src="https://github-profile-trophy.vercel.app/?username=mrhamza01&theme=flat&margin-w=15" alt="GitHub Trophy" />
+  </a>
 </p>
 
 ---
 
-### 💡 About Me
+### 👨‍💻 About Me
 
-I'm a passionate full-stack software engineer and Kubernetes expert with hands-on experience building scalable ERP platforms, cloud-native microservices, and modern web/mobile applications. I thrive at the intersection of backend engineering, DevOps, and developer experience (DX) tooling.
+I'm a **Computer Science graduate** and certified **IBM Full Stack Software Developer** with a strong foundation in software architecture, DevOps, and cloud-native app development. Unlike the "just vibes" developers out there, I focus on writing **maintainable**, **secure**, and **scalable** code that saves time, money, and stress down the road.
 
-- 🔭 Currently building **[AxonERP](https://axonerp.com/)** — a powerful microservices-based ERP system.
-- 🌐 Architected and deployed the ERP infrastructure using **bare metal Kubernetes**, saving my company over **$10,000/year** in cloud infrastructure costs.
-- ⚙️ Fluent in full-stack tech including **Node.js, React/Next.js, Spring Boot, PostgreSQL, MongoDB, Docker, and Kubernetes**.
-- 🌍 Building multi-tenant platforms, working with **Auth0**, **OPA**, **Cert-Manager**, and modern **CI/CD pipelines**.
-- 🛠️ Loves experimenting with Rust, serverless, and container-native development with **Podman**.
-- 🤝 Open to **collaborating on OSS** or freelance opportunities related to DevOps, backend systems, or performance optimization.
-
----
-
-### 📫 Contact Me
-
-- **Portfolio:** [hamzaghafoor.vercel.app](https://hamzaghafoor.vercel.app/)
-- **Email:** hamza.kamboh035@gmail.com
-- **LinkedIn:** [Hamza Ghafoor](https://linkedin.com/in/hamza-ghafoor)
+- 🔭 Working on **[AxonERP](https://axonerp.com)** – a robust ERP system built on microservices.
+- 💸 Saved **90% infrastructure cost** by deploying multi-tenant Kubernetes workloads on **bare metal**, avoiding pricey managed solutions like EKS/GKE.
+- 👨‍💻 Professional experience + hands-on learning from real-world bugs, edge cases & side projects.
+- 🌍 Built and maintained **secure, production-grade systems** involving **OAuth (Auth0), Open Policy Agent (OPA)**, **Cert-Manager**, and dynamic tenant routing with NGINX Ingress.
+- 💼 Available for **freelance** or **remote full-time opportunities**.
+- 🧠 Certificates:
+  - IBM Full Stack Software Developer
+  - FreeCodeCamp: Back End Development and APIs
 
 ---
 
-### 🧠 Technologies & Tools I Work With
+### 🔍 What Sets Me Apart?
+
+- ✅ I combine academic fundamentals with battle-tested **industry experience**.
+- 🧰 Skilled in debugging and building **clean, well-documented systems**.
+- 🧠 Obsessed with improving **developer experience** and **CI/CD pipelines**.
+- 🔐 Write code with **security and performance** as top priorities.
+- 🌟 Proven impact: Reduced infrastructure cost by **over $10,000/year** through smart Kubernetes architecture.
+
+---
+
+### 📫 Reach Out To Me
+
+- 🌐 [hamzaghafoor.vercel.app](https://hamzaghafoor.vercel.app/)
+- 📧 hamza.kamboh035@gmail.com
+- 💼 [LinkedIn – Hamza Ghafoor](https://linkedin.com/in/hamza-ghafoor)
+
+---
+
+### 🛠️ Skills & Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
@@ -41,33 +56,33 @@ I'm a passionate full-stack software engineer and Kubernetes expert with hands-o
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhamza01&layout=compact&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhamza01&layout=compact&theme=default" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrhamza01&show_icons=true&locale=en&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrhamza01&show_icons=true&locale=en&theme=default" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrhamza01&theme=radical" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrhamza01&theme=default" />
 </p>
 
 ---
 
-### 🔗 Competitive Programming & Profiles
+### 🧩 Other Profiles
 
 <p align="left">
   <a href="https://www.leetcode.com/muhammad_hamza035" target="blank">
@@ -80,6 +95,14 @@ I'm a passionate full-stack software engineer and Kubernetes expert with hands-o
 
 ---
 
-> ⚡ “Build fast. Deploy smart. Automate everything.”  
-> — That’s the DevOps mantra I live by.
+### 💼 Hire Me
 
+If you're looking for someone who can:
+- Architect scalable infrastructure
+- Ship production-grade applications
+- Optimize costs while improving reliability
+- Deliver fast and communicate clearly
+
+Then let's talk! I'm open to **remote roles**, **consulting gigs**, and **freelance projects**.
+
+---
